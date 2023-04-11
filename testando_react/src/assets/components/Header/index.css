@@ -1,0 +1,17 @@
+.flex {
+  width: 98%;
+}
+  
+.icon{
+    height: 38px;
+    width: 30px;
+}
+.main__image{
+    height: 50vh;
+    position: absolute;
+    top:0;
+}
+.game__info{
+    position: absolute;
+    
+}
